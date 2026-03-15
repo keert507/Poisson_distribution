@@ -1,7 +1,7 @@
 # Fitting Poisson  distribution
-ex no : 02
+Ex no : 02
 
-DATE:5/2/2026
+DATE:05/02/2026
 
 NAME: KEERTHANA T
 
